@@ -1,14 +1,14 @@
-# Gatsby Deck
+# React in style
 
-Create presentations using Gatsby & React.
+Styling your React application
 
 ---
 
-> Inscrutable icons litter the face of the devices even though the research 
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+# Sass/CSS
+
+* Thing 1
+
+* Thing 2
 
 ---
 
@@ -19,6 +19,15 @@ Create presentations using Gatsby & React.
 ## Slides are written in Markdown!
 
 Here's the source of the first slide:
+
+    import React from 'react'
+
+    const App = () => (
+        <div>
+        </div>
+    )
+
+    export default App;
 
     # Gatsby Deck
 
